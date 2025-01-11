@@ -1,10 +1,10 @@
 # DATN_GOA_LFDTFusion
 
 Chi tiết cài đặt
-
-git clone hoặc extract foler code LFDT-Fusion and GOA.zip
+#
+git clone rồi extract foler Code.zip (Extract LFDT-Fusion and GOA.zip)
 cd LFDT-Fusion
-
+#
 conda create -n LFDT-Fusion python=3.9
 conda activate LFDT-Fusion
 
